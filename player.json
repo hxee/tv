@@ -8,4 +8,4 @@ const PLAYER_SOURCES = [
         { name: "2s0", url: "https://jx.2s0.cn/player/analysis.php?v=" },
         { name: "nnxv", url: "https://jx.nnxv.cn/tv.php?url=" },
         { name: "973973", url: "https://jx.973973.xyz/?url=" }
-    ]
+    ];
