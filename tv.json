@@ -112,17 +112,17 @@
     },
     {
       "name": "极品",
-      "url": "https://jipinzyapi.com/api.php/provide/vodat/json/",
+      "url": "https://jipinzyapi.com/api.php/provide/vodat/json",
       "enabled": true
     },
     {
       "name": "百万",
-      "url": "https://api.bwzym3u8.com/api.php/provide/vodat/json/",
+      "url": "https://api.bwzym3u8.com/api.php/provide/vodat/json",
       "enabled": true
     },
     {
       "name": "Gay",
-      "url": "https://gayapi.com/api.php/provide/vodat/json/",
+      "url": "https://gayapi.com/api.php/provide/vodat/json",
       "enabled": true
     },
     {
@@ -147,12 +147,12 @@
     },
     {
       "name": "鲨鱼",
-      "url": "https://shayuapi.com/api.php/provide/vodat/json/",
+      "url": "https://shayuapi.com/api.php/provide/vodat/json",
       "enabled": true
     },
     {
       "name": "辣椒",
-      "url": "https://apilj.com/api.php/provide/vodat/json/",
+      "url": "https://apilj.com/api.php/provide/vodat/json",
       "enabled": true
     },
     {
@@ -167,7 +167,7 @@
     },
     {
       "name": "乐播",
-      "url": "https://lbapi9.com/api.php/provide/vodat/json/",
+      "url": "https://lbapi9.com/api.php/provide/vodat/json",
       "enabled": true
     },
     {
@@ -177,14 +177,15 @@
     },
     {
       "name": "lsb",
-      "url": "https://apilsbzy1.com/api.php/provide/vodat/json/",
+      "url": "https://apilsbzy1.com/api.php/provide/vodat/json",
       "enabled": true
     },
     {
       "name": "番号",
-      "url": "http://fhapi9.com/api.php/provide/vodat/json/",
+      "url": "http://fhapi9.com/api.php/provide/vodat/json",
       "enabled": true
     }
   ]
 }
+
 
