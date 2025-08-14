@@ -26,7 +26,7 @@ const EMBEDDED_SITE_DATA = {
     {"name":"jav.sb","url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/javsb.json","enabled":true},
     {"name":"javday","url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/javday.json","enabled":true},
     {"name":"ppp","url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/ppp.json","enabled":true},
-    {"name":"bad.news long","url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/badnews-long.json","enabled":true},
+    {"name":"bad.news long","url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/badnews-long.json"，"enabled":true},
     {"name":"bad.news av","url":"https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/badnewav.json","enabled":true},
     {"name":"javdoe","url":"https://raw.githubusercontent.com/m3u8playlist/dp/refs/heads/master/iplayr/javdoe.json","enabled":true},
     {"name":"memojav","url":"https://raw.githubusercontent.com/m3u8playlist/dp/refs/heads/master/iplayr/memojav.json","enabled":true},
@@ -121,4 +121,4 @@ const EMBEDDED_SITE_DATA = {
     {"name":"老鸭资源","url":"https://api.apilyzy.com/api.php/provide/vod","enabled":true},
     {"name":"天空云","url":"https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8","enabled":true}
 ]
-};
+}
