@@ -1,0 +1,11 @@
+const PLAYER_SOURCES = [
+        { name: "m3u8.tv", url: "https://jx.m3u8.tv/jiexi/?url=" },
+        { name: "xmflv", url: "https://jx.xmflv.com/?url=" },
+        { name: "8090g", url: "https://www.8090g.cn/?url=" },
+        { name: "ckplayer", url: "https://www.ckplayer.vip/jiexi/?url=" },
+        { name: "playm3u8", url: "https://www.playm3u8.cn/jiexi.php?url=" },
+        { name: "xymp4", url: "https://jx.xymp4.cc/?url=" },
+        { name: "2s0", url: "https://jx.2s0.cn/player/analysis.php?v=" },
+        { name: "nnxv", url: "https://jx.nnxv.cn/tv.php?url=" },
+        { name: "973973", url: "https://jx.973973.xyz/?url=" }
+    ]
