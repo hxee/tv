@@ -1,4 +1,4 @@
-const PLAYER_SOURCES = [
+    [
         { name: "m3u8.tv", url: "https://jx.m3u8.tv/jiexi/?url=" },
         { name: "xmflv", url: "https://jx.xmflv.com/?url=" },
         { name: "8090g", url: "https://www.8090g.cn/?url=" },
