@@ -121,4 +121,4 @@
     {"name":"老鸭资源","url":"https://api.apilyzy.com/api.php/provide/vod","enabled":true},
     {"name":"天空云","url":"https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8","enabled":true}
 ]
-};
+}
