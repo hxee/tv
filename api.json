@@ -1,4 +1,4 @@
-const EMBEDDED_SITE_DATA = {
+ {
 "sources": [
     {"name":"非凡","url":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8","enabled":true},
     {"name":"ikun","url":"https://ikunzyapi.com/api.php/provide/vod","enabled":true},
