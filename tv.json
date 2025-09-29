@@ -136,7 +136,7 @@
       {
         "name": "旺旺短剧",
         "url": "https://api.wwzy.tv/api.php/provide/vod"
-      }，
+      },
       {
         "name": "最大资源",
         "url": "https://api.zuidapi.com/api.php/provide/vod"
@@ -202,8 +202,12 @@
         "url": "https://dadiapi.com/api.php/provide/vod"
       },
       {
+        "name": "小鸡资源",
+        "url": "https://api.xiaojizy.live/provide/vod"
+      },
+      {
         "name": "快车资源阿",
-        "url": "https://caiji.kuaichezy.org/api.php/provide/vod"
+        "url": "https://caiji.kuaichezy.org/api.php/provide"
       },
       {
         "name": "优质资源库1080zyk6.com高清",
@@ -337,15 +341,10 @@
         "name": "黄色资源啊啊",
         "url": "https://hsckzy888.com/api.php/provide/vod"
       },
-        {
-        "name": "小鸡资源",
-        "url": "https://api.xiaojizy.live/provide/vod"
-      },
       {
         "name": "细胞采集黄色",
         "url": "https://www.xxibaozyw.com/api.php/provide/vod"
       }
-      
     ]
   },
   "player_sources": [
