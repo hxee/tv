@@ -263,7 +263,7 @@
       },
       {
         "name": "辣椒资源",
-        "url": "https://apilj.com/api.php/provide"
+        "url": "https://apilj.com/api.php/provide/vod"
       },
       {
         "name": "美少女资源",
@@ -304,10 +304,6 @@
       {
         "name": "玉兔资源|AV",
         "url": "https://apiyutu.com/api.php/provide/vod"
-      },
-      {
-        "name": "辣椒资源|AV",
-        "url": "https://apilj.com/api.php/provide"
       },
       {
         "name": "精品资源|AV",
