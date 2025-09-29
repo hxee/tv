@@ -43,7 +43,7 @@
       },
       {
         "name": "陶片",
-        "url": "https://taopianapi.com/cjapi/sea/vod/xml.html"
+        "url": "https://taopianapi.com/cjapi/sda/vod"
       },
       {
         "name": "豪华资源",
@@ -170,8 +170,36 @@
         "url": "https://www.mdzyapi.com/api.php/provide/vod"
       },
       {
+        "name": "黑木耳",
+        "url": "https://json02.heimuer.xyz/api.php/provide/vod"
+      },
+      {
         "name": "非凡影视new",
         "url": "https://api.ffzyapi.com/api.php/provide/vod"
+      },
+      {
+        "name": "快播资源网站",
+        "url": "https://gayapi.com/api.php/provide/vod"
+      },
+      {
+        "name": "爱短剧.cc",
+        "url": "https://www.aiduanju.cc/"
+      },
+      {
+        "name": "华为吧资源",
+        "url": "https://huawei8.live/api.php/provide/vod"
+      },
+      {
+        "name": "蜂巢片库",
+        "url": "https://api.fczy888.me/api.php/provide/vod"
+      },
+      {
+        "name": "金马资源网",
+        "url": "https://api.jmzy.com/api.php/provide/vod"
+      },
+      {
+        "name": "大地资源网络",
+        "url": "https://dadiapi.com/api.php/provide/vod"
       },
       {
         "name": "小鸡资源",
@@ -179,11 +207,19 @@
       },
       {
         "name": "快车资源阿",
-        "url": "https://caiji.kuaichezy.org/api.php/provide/vod"
+        "url": "https://caiji.kuaichezy.org/api.php/provide"
       },
       {
         "name": "优质资源库1080zyk6.com高清",
         "url": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod"
+      },
+      {
+        "name": "iqiyi资源",
+        "url": "https://www.iqiyizyapi.com/api.php/provide/vod"
+      },
+      {
+        "name": "七七影视",
+        "url": "https://www.qiqidys.com/api.php/provide/vod/"
       }
     ],
     "优质源": [
@@ -193,7 +229,7 @@
       },
       {
         "name": "1080资源库",
-        "url": "https://api.1080zyku.com/inc/apijson.php"
+        "url": "https://api.1080zyku.com/inc/apijson.php/"
       }
     ],
     "18+": [
@@ -227,7 +263,7 @@
       },
       {
         "name": "辣椒资源",
-        "url": "https://apilj.com/api.php/provide/vod"
+        "url": "https://apilj.com/api.php/provide"
       },
       {
         "name": "美少女资源",
@@ -270,6 +306,10 @@
         "url": "https://apiyutu.com/api.php/provide/vod"
       },
       {
+        "name": "辣椒资源|AV",
+        "url": "https://apilj.com/api.php/provide"
+      },
+      {
         "name": "精品资源|AV",
         "url": "https://www.jingpinx.com/api.php/provide/vod"
       },
@@ -292,6 +332,10 @@
       {
         "name": "色嗨国",
         "url": "https://api.sexnguon.com/api.php/provide/vod"
+      },
+      {
+        "name": "色猫资源",
+        "url": "https://api.maozyapi.com/inc/apijson_vod.php"
       },
       {
         "name": "性吧资源",
