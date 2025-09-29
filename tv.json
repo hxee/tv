@@ -104,11 +104,11 @@
       {
         "name": "CK资源",
         "url": "https://ckzy.me/api.php/provide/vod"
-      }，
+      },
       {
         "name": "U酷资源88",
         "url": "https://api.ukuapi88.com/api.php/provide/vod"
-      }，
+      },
       {
         "name": "光速资源",
         "url": "https://api.guangsuapi.com/api.php/provide/vod"
@@ -140,7 +140,7 @@
       {
         "name": "最大资源",
         "url": "https://api.zuidapi.com/api.php/provide/vod"
-      }，
+      },
       {
         "name": "步步高资源",
         "url": "https://api.yparse.com/api/json"
@@ -184,7 +184,7 @@
       {
         "name": "优质资源库1080zyk6.com高清",
         "url": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod"
-      },
+      }
     ],
     "优质源": [
       {
